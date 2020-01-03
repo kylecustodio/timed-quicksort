@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6dfe96c-1dae-4dd7-90d9-7f64c87ad277" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SzBuDdZg83byPMO0Kk4XTt9xj6" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Project5" />
+      <option name="PROGRAM_PARAMETERS" value="0 C:\Users\kkzyc\Documents\School\cs3345\Project5\report.txt C:\Users\kkzyc\Documents\School\cs3345\Project5\unsorted.txt C:\Users\kkzyc\Documents\School\cs3345\Project5\sorted.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Project5" />
+      <option name="PROGRAM_PARAMETERS" value="500000 report.txt unsorted.txt sorted.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6dfe96c-1dae-4dd7-90d9-7f64c87ad277" name="Default Changelist" comment="" />
+      <created>1572556764110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572556764110</updated>
+      <workItem from="1572556767295" duration="1861000" />
+      <workItem from="1573510366163" duration="4741000" />
+      <workItem from="1573582747126" duration="1605000" />
+      <workItem from="1573585024688" duration="14824000" />
+      <workItem from="1573750597336" duration="1768000" />
+      <workItem from="1574004756416" duration="2844000" />
+      <workItem from="1574044482476" duration="139000" />
+      <workItem from="1574047962056" duration="253000" />
+      <workItem from="1574368129874" duration="434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
